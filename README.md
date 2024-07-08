@@ -1,6 +1,10 @@
+CREATED BY BİLAL TOPAL AT 08.07.2024
+
 Description
 
 This case is provided by Stablex Company as part of the hiring process. It focuses on the sending request to a given API endpoint and  checking funtionality of API endpoint.
+
+Log file and report have added.
 
 -> Behavioral Patterns (Behavior-Driven Development is used by using Cucumber)
 
